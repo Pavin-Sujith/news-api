@@ -1,0 +1,31 @@
+#content-title {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: #333;
+}
+
+#date {
+    color: #333;
+}
+.nav-item {
+    padding: 0 10px;
+}
+.card{
+    margin: 10px 0px;
+}
+#cards {
+    display: none;
+}
+.col-md-4{
+    height: 280px;
+    width: 300px;
+    overflow: hidden;
+}
+
+img {
+    height: 100% !important;
+}
+
+
+
+
